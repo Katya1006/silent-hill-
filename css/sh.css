@@ -1,0 +1,485 @@
+html {
+
+background-color: #1C1C1C;
+}
+
+h3 {
+   color: red; 
+    text-align: center;
+    font-family: comic sans ms; 
+}
+
+header {
+    margin: 0;
+    padding: 0;
+    float: left;
+}
+
+.otstup {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+p {
+    color: white;
+    font-family: comic sans ms;
+    font-size: 16px;
+    text-align: justify;
+}
+
+
+
+
+.si {
+    color: #42aaff;
+    font-family: Trebuchet MS;
+    font-size: 40px; 
+    text-align: center;
+	margin-bottom: 37px;
+}
+
+.suyshet {
+    text-align: center;
+    color: f754e1;
+    font-family: Trebuchet MS;
+    font-size: 40px;
+}
+
+.sh {
+   text-align: center;
+    font-family: Trebuchet MS;
+    font-size: 40px; 
+    color: f754e1;  
+}
+
+
+.aa {
+    margin-right: 24%;
+    color: white;
+    font-family: comic sans ms;
+    text-align: justify;
+    font-size: 15px;
+}
+
+
+
+
+.bb {
+    color: white;
+    font-family: comic sans ms;
+    font-size: 15px;
+    margin-right: 30px;
+    text-align: justify;
+}
+
+.che {
+   text-align: center; 
+}
+
+.pers {
+   
+    color: white;
+    font-family: comic sans ms;
+    font-size: 40px;
+	text-align: center;
+}
+
+.Harry {
+   text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px; 
+    color: rebeccapurple;  
+}
+
+.Harry_pre {
+    color: rebeccapurple; 
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 20px;
+}
+
+.Harry_l {
+    color: rebeccapurple; 
+    font-family: comic sans ms;
+    font-size: 20px;
+    margin-left: 45%;
+}
+
+.cc {
+   color: white;
+    font-family: comic sans ms;
+    font-size: 15px;
+    margin-right: 30px;
+    text-align: justify;
+    
+}
+
+.dd {
+   color: white;
+    font-family: comic sans ms;
+    font-size: 15px;
+    margin-right: 30px;
+    text-align: justify;
+    margin-left: 3%; 
+}
+
+.Harryshsm {
+    color: rebeccapurple;
+    font-family: comic sans ms;
+    font-size: 40px;
+    text-align: center;
+}
+
+.sho {
+    text-align: center;
+    font-family: Trebuchet MS;
+    font-size: 40px; 
+    color: f754e1;
+}
+
+.vv {
+    color: rebeccapurple;
+    font-family: comic sans ms;
+    text-align: center;
+}
+
+.Harryshsmb {
+    color: rebeccapurple;
+    font-family: comic sans ms;
+    text-align: center;
+}
+
+.konshsm {
+    color: rebeccapurple;
+    font-family: comic sans ms;
+    text-align: center;
+}
+
+.Harry_f {
+    color: rebeccapurple;
+    font-family: comic sans ms;
+    font-size: 40px;
+    text-align: center;
+}
+
+.sm {
+    margin-left: 38%;
+    color: skyblue;
+    font-family: comic sans ms;
+    font-size: 40px;
+}
+
+.Sheril_if {
+    margin-left: 38%;
+    color: skyblue;
+    font-family: comic sans ms;
+    font-size: 40px;
+}
+
+.sb {
+   text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px;
+    color: blue;
+}
+
+.Sibill_if {
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px; 
+    color: blue;
+}
+
+.lg {
+   text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px; 
+    color: pink; 
+}
+
+.Liza_if {
+   text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px; 
+    color: pink;  
+}
+
+.sho_lg {
+	text-align: center;
+    font-family: Trebuchet MS;
+    font-size: 40px; 
+    color: f754e1;
+}
+
+.ag {
+   text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px; 
+    color: darkblue;  
+}
+
+.dm {
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px; 
+    color: MediumOrchid;  
+}
+
+.Djodi_if {
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px; 
+    color: MediumOrchid;
+}
+
+.mk {
+   text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px; 
+    color: SaddleBrown; 
+}
+
+.Maykl_pre {
+    color: SaddleBrown; 
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 20px;
+    margin-left: 23%;
+}
+
+.Maykl_sh {
+    color: SaddleBrown; 
+    text-align: center;
+    font-family: comic sans ms;
+    margin-left: 23%;
+    font-size: 40px;
+}
+
+.dg {
+   text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px; 
+    color: Maroon;   
+}
+
+.Dahlia_l {
+    color: Maroon; 
+    font-family: comic sans ms;
+    font-size: 20px;
+    margin-left: 45%;
+}
+
+.Dahlia_b {
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px; 
+    color: Maroon; 
+}
+
+.Dahlia_sho {
+    color: Maroon; 
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px;
+}
+
+.Dahlia_sh {
+    color: Maroon; 
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px;
+}
+
+.Dahlia_if {
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px; 
+    color: Maroon;
+}
+
+.tg {
+	text-align: center;
+    font-family: Trebuchet MS;
+    font-size: 40px; 
+    color: f754e1;
+}
+
+.sho_tg {
+	text-align: center;
+    font-family: Trebuchet MS;
+    font-size: 40px; 
+    color: f754e1;
+}
+
+.travis_if {
+	text-align: center;
+    font-family: Trebuchet MS;
+    font-size: 40px; 
+    color: f754e1;
+}
+
+.rg {
+	text-align: center;
+    font-family: Trebuchet MS;
+    font-size: 40px; 
+    color: f754e1;
+}
+
+.richard_if {
+	text-align: center;
+    font-family: Trebuchet MS;
+    font-size: 40px; 
+    color: f754e1;
+}
+
+.hg {
+	text-align: center;
+    font-family: Trebuchet MS;
+    font-size: 40px; 
+    color: f754e1;
+}
+
+.helen_if {
+	text-align: center;
+    font-family: Trebuchet MS;
+    font-size: 40px; 
+    color: f754e1;
+}
+
+.monsters {
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px; 
+    color: darkgreen;
+}
+
+
+
+
+.vi {
+    float: right;
+}
+
+.koncovki {
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px; 
+    color: red;
+}
+
+.koncovkish {
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px; 
+    color: white;
+}
+
+.koncovkio {
+    text-align: center;
+    font-family: comic sans ms;
+    font-size: 40px; 
+    color: red;
+}
+
+
+
+body {
+    /* Убираю отступы. */
+    margin:0px;
+    /* Убираю еще отступы. */
+    padding:0px;
+    /* Задаю шрифт. */
+    font: 14px 'Verdana';
+    
+}
+ul {
+    /* Убираю маркеры у списка*/
+    list-style: none;
+    /* Делаю элементы блочными. */
+    display: block;
+    /* Убираю отступы. */
+    margin:0px;
+    /* Убираю еще отступы! */
+    padding:0px;
+    margin-top:-9px; /*делаем отступ сверху*/
+    margin-bottom: -8px;
+}
+ul:after {
+    /* Делаю элементы блочными. */
+    display: block;
+    /* Убираю выравнивание. */
+    float: none;
+    content: ' ';
+    clear: both;
+}
+ul.mmenuu > li {
+    /* Задаю выравнивание и позиционирование. */
+    float: left;
+    /* Считаем координаты относительно исходного места*/
+    position: relative;
+}
+ul.mmenuu > li > a {
+    /* Делаю элементы блочными: */
+    display: block;
+    /* Задаю белый цвет. */
+    color: white;
+    /* Задаю отступ 10px. */
+    padding: 23px;
+    /* Убираю форматирование*/
+    text-decoration: none;
+    /* Задаю цвет. */
+    background-color: #1C1C1C;
+    font-family: comic sans ms;
+    font-size: 15px;
+}
+ul.mmenuu > li > a:hover {
+    /* Задаю цвет при наведении. */
+    background-color: rebeccapurple;
+}
+ul.ssubmenuu {
+    position: absolute;
+    width: 240px;
+    top: 37px;
+    left:0px;
+    /* Делаю субменю скрытыми. */
+    display: none;
+    /* Цвет — белый. */
+    background-color: white;
+}
+ul.ssubmenuu > li {
+    /* Блочное расположение элементов*/
+    display: block;
+}
+ul.ssubmenuu > li > a {
+    /* Делаю элементы блочными. */
+    display: block;
+    /* Убираю форматирование*/
+    text-decoration: none;
+    /* Задаю отступ. */
+    padding: 10px;
+    /* Задаю цвет. */
+    color: #ffffff;
+    /* Еще цвет. */
+    background-color: black;
+    font-family: comic sans ms;
+}
+ul.ssubmenuu > li > a:hover {
+    /* Цвет бэкграунда при наведении. */
+    background-color: rebeccapurple;
+    
+    
+    font-family: comic sans ms;
+}
+ul.mmenuu > li:hover > ul.ssubmenuu {
+    /* Делаю элементы блочными. */
+    display: block;
+}
+
+nav {
+    background-color: #1C1C1C;
+    display: flex;
+	padding: 10px;
+    align-items: center;
+	justify-content: center;
+    
+}
